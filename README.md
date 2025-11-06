@@ -70,8 +70,7 @@ Smart-Construction-Safety-Detector-YOLOv8/
 │   │   └── last.pt
 │   ├── results.png
 │   └── predict/
-│       ├── image0.jpg
-│       └── image1.jpg
+│       └── image.jpg
 │
 ├── data.yaml
 └── README.md
