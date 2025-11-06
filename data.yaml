@@ -1,0 +1,13 @@
+names:
+- helmet
+- vest
+nc: 2
+roboflow:
+  license: Public Domain
+  project: safety-vest-safety-helmet
+  url: https://universe.roboflow.com/test1-ut0wa/safety-vest-safety-helmet/dataset/8
+  version: 8
+  workspace: test1-ut0wa
+test: test/images
+train: train/images
+val: valid/images
